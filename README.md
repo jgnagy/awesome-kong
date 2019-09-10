@@ -64,6 +64,7 @@
 - [decK](https://github.com/hbagdi/deck) - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 - [Kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 - [Ansible Kong](https://github.com/wunzeco/ansible-kong) - Installs and Configures Kong with Ansible
+- [Skull Island](https://github.com/jgnagy/skull_island) - CLI tool and Ruby SDK for Kong 1.x. Supports templates and distributed configuration.
 
 
 ## Custom Plugins
